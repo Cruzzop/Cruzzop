@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=800&height=55&lines=Welcome+to+Cruzzop%27s+GitHub" alt="Animated text: Welcome to Cruzzop's GitHub" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=700&height=60&lines=ANISH+PATRA;%40Cruzzop;WEB+SECURITY+LEARNER" alt="Animated neon terminal typing: Anish Patra, Cruzzop, Web Security Learner" />
 </p>
 
