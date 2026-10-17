@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020403,45:07150b,100:001f0a&fontColor=39ff14&fontSize=46&fontAlignY=40&desc=%40CRUZZOP%20%2F%2F%20WEB%20SECURITY%20LEARNER&descAlignY=65&descSize=13&stroke=39ff14&strokeWidth=1" width="100%" alt="Neon green terminal-inspired cybersecurity banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020403,45:07150b,100:001f0a&text=ANISH%20PATRA&fontColor=39ff14&fontSize=46&fontAlignY=40&desc=%40CRUZZOP%20%2F%2F%20WEB%20SECURITY%20LEARNER&descAlignY=65&descSize=13&stroke=39ff14&strokeWidth=1" width="100%" alt="Neon green terminal-inspired banner displaying Anish Patra" />
 </p>
 
 <p align="center">
