@@ -30,7 +30,7 @@ Username  : Cruzzop
 Role      : Cybersecurity Learner
 Focus     : Web Application Security | VAPT
 Currently : Building fundamentals + practising in legal labs
-Goal      : Earn a Web Security / VAPT internship
+Goal      : Master Web Security / VAPT 
 ```
 
 > Not claiming to be an expert — just learning, testing in authorised labs, and documenting progress one step at a time.
