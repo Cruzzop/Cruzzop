@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020403,45:07150b,100:001f0a&text=ANISH%20PATRA&fontColor=39ff14&fontSize=46&fontAlignY=40&desc=%40CRUZZOP%20%2F%2F%20WEB%20DEV%20%2B%20CYBERSECURITY&descAlignY=65&descSize=13&stroke=39ff14&strokeWidth=1" width="100%" alt="Neon green terminal-inspired banner displaying Anish Patra" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,45:101010,100:260606&text=ANISH%20PATRA&fontColor=00FF41&fontSize=52&fontAlignY=42&desc=CRUZZOP%20%2F%2F%20WE%20ARE%20WATCHING%20THE%20SYSTEM&descAlignY=65&descSize=13&stroke=00FF41&strokeWidth=1" width="100%" alt="Neon green terminal-inspired banner displaying Anish Patra" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=800&height=60&lines=ANISH+PATRA;%40Cruzzop;WEB+DEVELOPMENT+%7C+CYBERSECURITY;BUILDING+AND+LEARNING" alt="Animated neon terminal typing: Anish Patra, web development and cybersecurity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2200&pause=900&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=ANISH+PATRA;%40Cruzzop;HELLO%2C+FRIEND.;WEB+DEV+%2F%2F+CYBERSECURITY" alt="Animated neon terminal typing: Anish Patra, web development and cybersecurity" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-7c3aed?style=for-the-badge&labelColor=3b0764" alt="Status: Always learning" />
 </p>
 
-<h2 align="center">▌ ANISH PATRA <code>@Cruzzop</code></h2>
+<h2 align="center"><code>root@cruzzop:~$</code> ANISH PATRA <code>@Cruzzop</code></h2>
 
 <p align="center">
   <b>B.Tech CSE Student · Web Development · Aspiring Web Application Security / VAPT Analyst</b>
