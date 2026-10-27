@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cruzzop/Cruzzop/main/assets/anish-patra-header.svg?v=2" width="100%" alt="Custom neon-green glitch typography spelling Anish Patra on a dark cyber-terminal background" />
+  <img src="https://raw.githubusercontent.com/Cruzzop/Cruzzop/main/assets/anish-patra-header.svg?v=3" width="100%" alt="Custom neon-green glitch typography spelling Anish Patra on a dark cyber-terminal background" />
 </p>
 
 <p align="center">
