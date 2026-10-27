@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020604"/><stop offset=".55" stop-color="#07120d"/><stop offset="1" stop-color="#170505"/></linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#00ff66" stroke-opacity=".08" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+  <path d="M0 42H1200M0 318H1200" stroke="#00ff66" stroke-opacity=".4" stroke-width="1"/>
+  <path d="M35 65h90m-90 12h45M1075 65h90m-45 12h45" stroke="#00ff66" stroke-opacity=".65" stroke-width="2"/>
+  <text x="55" y="48" fill="#00ff66" font-family="monospace" font-size="14" letter-spacing="3">CRUZZOP // PERSONAL SYSTEM</text>
+  <text x="1145" y="48" text-anchor="end" fill="#a7f3d0" font-family="monospace" font-size="13">STATUS: ONLINE</text>
+  <text x="600" y="191" text-anchor="middle" fill="#ff003c" opacity=".75" font-family="monospace" font-size="90" font-weight="900" letter-spacing="8" transform="translate(4 0)">CRUZZOP</text>
+  <text x="600" y="185" text-anchor="middle" fill="#00ff66" opacity=".45" font-family="monospace" font-size="90" font-weight="900" letter-spacing="8" transform="translate(-4 0)">CRUZZOP</text>
+  <text x="600" y="188" text-anchor="middle" fill="#eafff2" stroke="#00ff66" stroke-width=".7" paint-order="stroke" filter="url(#glow)" font-family="monospace" font-size="90" font-weight="900" letter-spacing="8">CRUZZOP</text>
+  <path d="M185 208h150l-18 5h-132M865 208h150l-18 5h-132" fill="#00ff66" opacity=".8"/>
+  <text x="600" y="248" text-anchor="middle" fill="#00ff66" font-family="monospace" font-size="17" letter-spacing="4">WEB DEVELOPMENT / CYBERSECURITY / LINUX</text>
+  <text x="600" y="282" text-anchor="middle" fill="#9ca3af" font-family="monospace" font-size="13" letter-spacing="2">LEARN BY DOING • BUILD WITH PURPOSE • STAY CURIOUS</text>
+  <text x="55" y="342" fill="#00ff66" font-family="monospace" font-size="12">root@cruzzop:~$ whoami</text>
+  <text x="1145" y="342" text-anchor="end" fill="#00ff66" font-family="monospace" font-size="12">[ ACCESS GRANTED ]</text>
+</svg>
