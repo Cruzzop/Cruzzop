@@ -9,8 +9,7 @@
   <path d="M35 65h90m-90 12h45M1075 65h90m-45 12h45" stroke="#00ff66" stroke-opacity=".65" stroke-width="2"/>
   <text x="55" y="48" fill="#00ff66" font-family="monospace" font-size="14" letter-spacing="3">ANISH PATRA // PERSONAL SYSTEM</text>
   <text x="1145" y="48" text-anchor="end" fill="#a7f3d0" font-family="monospace" font-size="13">STATUS: ONLINE</text>
-  <text x="600" y="191" text-anchor="middle" fill="#ff1744" opacity=".38" font-family="monospace" font-size="76" font-weight="900" letter-spacing="5" transform="translate(4 0)">ANISH PATRA</text>
-  <text x="600" y="185" text-anchor="middle" fill="#00ff66" opacity=".28" font-family="monospace" font-size="76" font-weight="900" letter-spacing="5" transform="translate(-4 0)">ANISH PATRA</text>
+
   <text x="600" y="188" text-anchor="middle" fill="#eafff2" stroke="#00ff66" stroke-width=".8" paint-order="stroke" filter="url(#glow)" font-family="monospace" font-size="76" font-weight="900" letter-spacing="5">ANISH PATRA</text>
   <path d="M185 208h150l-18 5h-132M865 208h150l-18 5h-132" fill="#00ff66" opacity=".8"/>
   <text x="600" y="248" text-anchor="middle" fill="#00ff66" font-family="monospace" font-size="17" letter-spacing="4">WEB DEVELOPMENT / CYBERSECURITY / LINUX</text>
