@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,45:101010,100:260606&text=ANISH%20PATRA&fontColor=00FF41&fontSize=52&fontAlignY=42&desc=CRUZZOP%20%2F%2F%20WE%20ARE%20WATCHING%20THE%20SYSTEM&descAlignY=65&descSize=13&stroke=00FF41&strokeWidth=1" width="100%" alt="Neon green terminal-inspired banner displaying Anish Patra" />
+  <img src="https://raw.githubusercontent.com/Cruzzop/Cruzzop/main/assets/cruzzop-header.svg" width="100%" alt="Custom neon-green glitch typography spelling CRUZZOP on a dark cyber-terminal background" />
 </p>
 
 <p align="center">
