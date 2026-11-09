@@ -32,9 +32,8 @@
 Name      : Anish Patra
 Username  : Cruzzop
 Role      : CSE Student & Developer in Progress
-Interests : Web Development | Cybersecurity | Linux
+Interests : Devops | Cybersecurity | Web Development | Linux
 Current   : Strengthening fundamentals + hands-on practice
-Goal      : Web Application Security / VAPT
 ```
 
 > Not claiming to be an expert — just learning, building, practising in authorised labs, and documenting progress honestly.
@@ -81,14 +80,6 @@ Goal      : Web Application Security / VAPT
   <img src="https://img.shields.io/badge/OWASP-EXPLORING-a78bfa?style=flat-square&labelColor=4c1d95" alt="OWASP exploring" />
 </p>
 
-My current direction is web application security: understand the web fundamentals first, practise in legal labs, then learn to identify, explain, and remediate vulnerabilities.
-
-### <code>root@cruzzop:~$ cat ./learning_resources.txt</code>
-
-- **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** — free web security lessons and labs
-- **[OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)** — Linux command-line practice
-- **[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)** — intentionally vulnerable web application
-- **[OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)** — testing methodology reference
 
 ### <code>root@cruzzop:~$ cat ./principles.txt</code>
 
@@ -98,14 +89,6 @@ My current direction is web application security: understand the web fundamental
 - Include clear impact and practical remediation in security write-ups.
 - Keep improving my development, Linux, networking, and security fundamentals.
 
-### <code>root@cruzzop:~$ git status</code>
-
-```text
-Learning      : in progress
-Building      : in progress
-Web security  : in progress
-Consistency   : the mission
-```
 
 ### <code>root@cruzzop:~$ contact --github</code>
 
